@@ -1,0 +1,5 @@
+sentence_transformers
+huggingface_hub
+langchain
+deeplake
+pypdf
