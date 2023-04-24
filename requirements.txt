@@ -3,3 +3,5 @@ huggingface_hub
 langchain
 deeplake
 pypdf
+tiktoken
+openai
